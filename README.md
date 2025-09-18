@@ -14,6 +14,8 @@ I'm an Integrated Designer turned **Data Analytics Consultant** based in **Breme
 ## Portfolio
 Visit my [Tableau Public](https://public.tableau.com/app/profile/franziskaschwade/vizzes) for a sneak peek into my data vizzes.
 
+<img src="https://github.com/fschwade/fschwade/blob/main/tableau-public-screenshot.jpg" width=550>
+
 ## Certifications
 <a href="https://www.credly.com/badges/a5a93890-f727-4c03-aa67-a0840a67fa67/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width=110></a> 
 <a href="https://www.credly.com/badges/44f70b02-870c-488e-b259-737fa7ef3cd7/public_url" target="_blank"><img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width=110></a> 
