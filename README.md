@@ -2,8 +2,9 @@
 
 I'm an Integrated Designer turned **Data Analytics Consultant** based in **Bremen, Germany**.<br> 
 
-- currently working as Data School Consultant @ The Data School Germany / The Information Lab Germany. <br>
-- open for work starting April 2026 
+- currently working as Data School Consultant @ The Data School Germany / The Information Lab Germany <br>
+- open for work starting April 2026
+- wanting to relocate to Berlin, Germany
 
 ## Skills
 <img src="https://img.shields.io/badge/data%20analytics-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/consulting-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/data%20preparation-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/business%20intelligence-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/data%20visualization-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/design-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/project%20management-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/enablement-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/communications-white?&style=for-the-badge"> <img src="https://img.shields.io/badge/data%20engineering-white?&style=for-the-badge">
